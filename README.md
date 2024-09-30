@@ -1,5 +1,6 @@
 # Epidemic Simulation
 ###Epidemic Simulation using Python
+
 This program uses the variables set in program to simulate the spreading of disease, giving an animated image about the simulation and the proportion of infected population.
 A person (show as dots) will move inside a square area, with straight or random (Brownian motion) moving options.
 There will be one infected person at the start, and will recover after a while. However there's a chance for reinfection.
