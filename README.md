@@ -1,5 +1,5 @@
-# Epidemic Simulation 疫情模擬分析
-### Epidemic Simulation using Python
+# Epidemic Simulation | 疫情模擬分析
+### Epidemic Simulation using Python | 利用Python做疫情模擬
 
 This program uses the variables set in program to simulate the spreading of disease, giving an animated image about the simulation and the proportion of infected population.
 A person (show as dots) will move inside a square area, with straight or random (Brownian motion) moving options.
