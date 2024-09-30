@@ -1,4 +1,4 @@
-# Epidemic Simulation
+# Epidemic Simulation 疫情模擬分析
 ### Epidemic Simulation using Python
 
 This program uses the variables set in program to simulate the spreading of disease, giving an animated image about the simulation and the proportion of infected population.
